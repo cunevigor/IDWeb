@@ -1,1 +1,8 @@
 main.c : HEAD SHA-1 chekcsum
+main.cs : HEAD SHA-1 chekcsum
+main.php : HEAD SHA-1 chekcsum
+main.jar : HEAD SHA-1 chekcsum
+main.js : HEAD SHA-1 chekcsum
+main.go : HEAD SHA-1 chekcsum
+main.py : HEAD SHA-1 chekcsum
+main.rb : HEAD SHA-1 chekcsum
